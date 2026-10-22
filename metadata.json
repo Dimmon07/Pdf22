@@ -1,0 +1,8 @@
+{
+  "name": "PDF Master - Android Jetpack Compose Project",
+  "description": "Повний проєкт мобільного застосунку Android (Kotlin, Jetpack Compose, Clean Architecture) для створення PDF із зображень та редагування PDF з інтерактивним симулятором та експортом коду.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
